@@ -27,8 +27,8 @@ main {
         padding: 10px;
         grid-column: 2;
         grid-row: 2;
-        width: 220px;
-        height: 390px;
+        width: 320px;
+        height: 540px;
         border: solid 2px rgb(16, 86, 86);
         border-radius: 10px;
         display: grid;
